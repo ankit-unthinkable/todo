@@ -1,0 +1,19 @@
+.App {
+  text-align: center;
+  border: 2px solid black;
+  margin: 0px 0px 0px 200px;
+  height:600px;
+  float:left;
+  width:40%;
+}
+
+.App2 {
+  text-align: center;
+  border: 2px solid black;
+  height:600px;
+
+  float:left;
+  width:40%;
+}
+
+
